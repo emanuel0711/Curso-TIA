@@ -49,4 +49,3 @@ print(f'valor desconto: R${compra - valor_final}')
 print(F'Valor final: R${valor_final}') """
 
 # -------------------- / -------------------- #
-
